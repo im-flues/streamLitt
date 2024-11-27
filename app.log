@@ -1,0 +1,54 @@
+2024-11-27 12:42:28,854 INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-11-27 12:42:28,854 INFO:apscheduler.scheduler:Added job "send_email_report" to job store "default"
+2024-11-27 12:42:28,854 INFO:apscheduler.scheduler:Scheduler started
+2024-11-27 12:42:28,854 INFO:root:Scheduler started for daily email report at 1:00 AM.
+2024-11-27 12:42:28,910 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2024-11-27 12:42:28,910 INFO:werkzeug:[33mPress CTRL+C to quit[0m
+2024-11-27 12:42:28,920 INFO:werkzeug: * Restarting with stat
+2024-11-27 12:42:30,203 INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-11-27 12:42:30,203 INFO:apscheduler.scheduler:Added job "send_email_report" to job store "default"
+2024-11-27 12:42:30,203 INFO:apscheduler.scheduler:Scheduler started
+2024-11-27 12:42:30,203 INFO:root:Scheduler started for daily email report at 1:00 AM.
+2024-11-27 12:42:30,220 WARNING:werkzeug: * Debugger is active!
+2024-11-27 12:42:30,238 INFO:werkzeug: * Debugger PIN: 357-480-298
+2024-11-27 12:42:44,364 INFO:apscheduler.scheduler:Scheduler has been shut down
+2024-11-27 12:42:44,364 INFO:root:Scheduler shut down successfully.
+2024-11-27 12:42:44,545 INFO:apscheduler.scheduler:Scheduler has been shut down
+2024-11-27 12:42:44,546 INFO:root:Scheduler shut down successfully.
+2024-11-27 12:42:46,610 INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-11-27 12:42:46,612 INFO:apscheduler.scheduler:Added job "send_email_report" to job store "default"
+2024-11-27 12:42:46,613 INFO:apscheduler.scheduler:Scheduler started
+2024-11-27 12:42:46,615 INFO:root:Scheduler started for daily email report at 1:00 AM.
+2024-11-27 12:42:46,642 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5069
+2024-11-27 12:42:46,643 INFO:werkzeug:[33mPress CTRL+C to quit[0m
+2024-11-27 12:42:46,648 INFO:werkzeug: * Restarting with stat
+2024-11-27 12:42:47,735 INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-11-27 12:42:47,738 INFO:apscheduler.scheduler:Added job "send_email_report" to job store "default"
+2024-11-27 12:42:47,739 INFO:apscheduler.scheduler:Scheduler started
+2024-11-27 12:42:47,741 INFO:root:Scheduler started for daily email report at 1:00 AM.
+2024-11-27 12:42:47,752 WARNING:werkzeug: * Debugger is active!
+2024-11-27 12:42:47,760 INFO:werkzeug: * Debugger PIN: 357-480-298
+2024-11-27 12:42:58,783 WARNING:root:404 Not Found: http://localhost:5069/favicon.ico
+2024-11-27 12:42:58,783 INFO:werkzeug:127.0.0.1 - - [27/Nov/2024 12:42:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-27 12:43:00,070 INFO:werkzeug:127.0.0.1 - - [27/Nov/2024 12:43:00] "GET / HTTP/1.1" 200 -
+2024-11-27 12:43:00,372 INFO:root:Fetching pick performance data for API request.
+2024-11-27 12:43:00,373 INFO:root:Fetching pick performance data from database.
+2024-11-27 12:43:00,450 INFO:root:Database connection established successfully.
+2024-11-27 12:43:00,883 INFO:root:Fetched 1804 records from the database.
+2024-11-27 12:43:00,904 WARNING:root:Picks with missing shift information: ['John roy', 'LEEHARRI', 'marcus2', 'MATTBEN', 'patrick', 'Rodger', 'TANUNO', 'TAVIN', 'TH ANGIE', 'THDEZ', 'THMARCUS']
+2024-11-27 12:43:00,946 INFO:root:Fetched and processed performance data successfully.
+2024-11-27 12:43:00,947 INFO:root:Completed fetch_performance_data execution.
+2024-11-27 12:43:00,951 INFO:root:API request for pick performance data successful.
+2024-11-27 12:43:00,953 INFO:werkzeug:127.0.0.1 - - [27/Nov/2024 12:43:00] "GET /pick-performance?t=1732711380156 HTTP/1.1" 200 -
+2024-11-27 12:43:42,331 INFO:werkzeug: * Detected change in 'D:\\app\\streamLitt\\main.py', reloading
+2024-11-27 12:43:42,333 INFO:apscheduler.scheduler:Scheduler has been shut down
+2024-11-27 12:43:42,334 INFO:root:Scheduler shut down successfully.
+2024-11-27 12:43:42,577 INFO:werkzeug: * Restarting with stat
+2024-11-27 12:43:43,906 INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-11-27 12:43:43,906 INFO:apscheduler.scheduler:Added job "send_email_report" to job store "default"
+2024-11-27 12:43:43,906 INFO:apscheduler.scheduler:Scheduler started
+2024-11-27 12:43:43,906 INFO:root:Scheduler started for daily email report at 1:00 AM.
+2024-11-27 12:43:43,927 WARNING:werkzeug: * Debugger is active!
+2024-11-27 12:43:43,933 INFO:werkzeug: * Debugger PIN: 357-480-298
